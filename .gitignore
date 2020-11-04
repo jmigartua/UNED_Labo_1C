@@ -1,0 +1,19 @@
+.gitattributes
+/BFMA/.DS_Store
+/BFMA/4_Calor_Vaporizacion_Agua_Nov_2018.ipynb
+/BFMA/Practica calor vaporizacion agua.ods
+/BFMA/Practica ondas.ods
+/BFMA/Practica pendulo fisico.ods
+/FI/__pycache__
+/FI/.DS_Store
+/FI/.ipynb_checkpoints
+/FI/1_Ley_de_Hooke.ipynb
+/FI/2_Plano_Inclinado.ipynb
+/FI/5_Pendulo_Fisico.ipynb
+/FI/Aceleracion Plano inclinado.xlsx
+/FI/Datos Ley de Hooke.pdf
+/FI/Ley de Hooke.xlsx
+/FI/modules.py
+/FI/modules.pyc
+modules.py
+modules.pyc
